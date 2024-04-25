@@ -2,13 +2,13 @@
 
 # Nivelamento
   
-  **Matematica**
+ - **Matematica**
   
-  **Estatistica basica**
+ - **Estatistica basica**
   
-  **Programaçao basica**
+ - **Programaçao basica**
   
-  **Excel Do Basico ao Avançado**
+ - **Excel Do Basico ao Avançado**
   
 # Tecnologia e Programação
  
