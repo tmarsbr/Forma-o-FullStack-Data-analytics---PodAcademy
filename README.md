@@ -1,15 +1,10 @@
 # Forma o FullStack Data analytics PodAcademy
 
 # Nivelamento
-  
  - **Matematica**
-  
  - **Estatistica basica**
-  
  - **Programaçao basica**
-  
  - **Excel Do Basico ao Avançado**
-  
 # Tecnologia e Programação
  - **Pyspark**
  - **Python**
@@ -25,5 +20,34 @@
 - **Introdução à Análise Exploratória e Modelos de Distribuição Estatística**
 - **Amostragem e Inferência: Do Intervalo de Confiança aos Testes Estatísticos**
 - **Inferência Estatística Avançada: Testes, Abordagens Clássicas e Bayesianas**
-#
+# Fundamentos da Análise de Dados
+- **Desenvolvimento de Análise de Dados**
+- Entendimento do Framework CRISP-DM
+- O que nossa análise vai responder ?
+- O que será resolvido ?
+- Quais dados serão utilizados ?
+- Exploração e tratamento dos dados
+- Análise e solução
+- Avaliação da solução
+- Implantação da Solução
+- Conceito de Tabela Analítica de Público de Estudo
+- Seleção do Público
+- Conceito de amostragem
+- Explorando os dados
+- Fundamentos da Análise de dados
+- Introdução e Contextualização (Objetivo da análise)
+- Inspeção dos Dados
+- Desenvolvendo Metadados
+- Análise dos valores nulos (Missings)
+- Medir
+- Deletar linhas
+- Deletar colunas
+- Imputação
+- Análise Preliminar (Estatística Descritiva)
+- Análise Unidimensional
+- Variáveis Categóricas
+- Variáveis Numéricas
+- Análise Geográfica
+- GeoPandas
+
 
