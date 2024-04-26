@@ -21,7 +21,7 @@
 - **Amostragem e Inferência: Do Intervalo de Confiança aos Testes Estatísticos**
 - **Inferência Estatística Avançada: Testes, Abordagens Clássicas e Bayesianas**
 # Fundamentos da Análise de Dados
-- **Desenvolvimento de Análise de Dados**
+#### **Desenvolvimento de Análise de Dados**
 - Entendimento do Framework CRISP-DM
 - O que nossa análise vai responder ?
 - O que será resolvido ?
