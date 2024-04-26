@@ -49,5 +49,22 @@
 - Variáveis Numéricas
 - Análise Geográfica
 - GeoPandas
+- Análise Bidimensional
+- Relações entre variáveis
+- Análise Multidimensional
+- Análise de Correlação
+- Pearson
+- Apresentação de resultados técnicos
+- Visualização de Dados no Notebook
+- pandas_profilling
+- weetviz
+- Teste A/B
+- Apresentação de resultados de negócio
+- Montando um PPT com resultados de negócio
+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
 
 
