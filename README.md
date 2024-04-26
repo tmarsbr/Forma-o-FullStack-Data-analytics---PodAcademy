@@ -22,7 +22,7 @@
 - **Inferência Estatística Avançada: Testes, Abordagens Clássicas e Bayesianas**
 # Fundamentos da Análise de Dados
 #### **Desenvolvimento de Análise de Dados**
-- Entendimento do Framework CRISP-DM
+- Entendimento do Framework CRISP-DM                                       
 - O que nossa análise vai responder ?
 - O que será resolvido ?
 - Quais dados serão utilizados ?
@@ -43,6 +43,7 @@
 - Deletar linhas
 - Deletar colunas
 - Imputação
+-------------------------------------------------------------------------------------------------------------------------- 
 - Análise Preliminar (Estatística Descritiva)
 - Análise Unidimensional
 - Variáveis Categóricas
